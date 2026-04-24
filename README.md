@@ -121,5 +121,3 @@ Generated outputs include:
 - No outputs → check if `outputs/` folder is created  
 - Errors → ensure all `.py` files are in the same directory  
 ```
-
-
